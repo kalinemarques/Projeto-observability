@@ -14,7 +14,7 @@ Realizar a criação e configuração do ambiente de observability utilizando as
 ## Pré-requisitos para executar o projeto
 - Docker
 - Docker Compose
-- OBS: O projeto todo foi executado no WSL - Ubuntu, então se for executar numa máquina virtual(Virtual Box/VMware) ou em uma EC2 algumas configurações possam ser diferentes. Principalmente no arquivo docker-compose.yml pois utilizei localhost como endereço IP.
+- OBS: O projeto todo foi executado no WSL - Ubuntu, então se for executar numa máquina virtual(Virtual Box/VMware) ou em uma EC2 algumas configurações podem ser diferentes. Principalmente no arquivo docker-compose.yml pois utilizamos localhost como endereço IP.
 - OBS²: Ao longo da execução, talvez precise executar alguns comandos com permissão de SUDO.
 
 ## Instalação do Docker + Docker Compose
